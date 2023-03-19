@@ -1,4 +1,14 @@
-# 💫 About Me:
+<h1 align="center">Hey there, I'm Anurag Jadon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+   ## 🙋‍♂️
+
+<img align="center" alt="Coding" width="2000" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
+
+<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+
+<br>
+
+## 💫 About Me:
 🎯 Passionate about the tech that's changing and empowering the world to become a better place.<br>🔭 I’m currently working on Python, NLP, SQL, Machine Learning Frameworks and AR/VR Projects.<br>👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.<br>🌱 I’m currently learning Machine Learning with Data Science .<br>⚡ Fun fact - It’s all about 0’s and 1’s :)
 
 
@@ -11,16 +21,28 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ninja7328&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ninja7328&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja7328&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ninja7328&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
-
-[![](https://visitcount.itsvg.in/api?id=Ninja7328&icon=0&color=0)](https://visitcount.itsvg.in)
+## Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br>
+</div>
+<div align="center">
+  
+<br>
+  <p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ninja7328-code}/count.svg" /></p> 
+<br></div>
+   
+<p align="center">
+  <i>Ask me anything I'am Happy to Help! </i>
+  <br><br>
+<a target="_blank" href="https://www.linkedin.com/in/anurag-jadon-lpu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:jadon7328@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 
 
