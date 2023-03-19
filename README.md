@@ -18,7 +18,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
+
 [![](https://visitcount.itsvg.in/api?id=Ninja7328&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
